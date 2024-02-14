@@ -1,0 +1,6 @@
+clientaddr,destaddr,firewall,port,proto,action
+62.42.91.6,192.160.80.91,vern1,80,http,allow
+62.42.94.8,192.160.80.91,vern1,443,https,allow
+62.42.91.5,192.160.80.92,vern2,443,https,allow
+62.42.84.2,192.160.80.93,vern1,22,ssh,block
+209.42.108.16,192.160.80.94,vern1,443,https,allow
